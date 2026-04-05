@@ -136,7 +136,3 @@ The program runs as a message-only Windows application, so it does not open a no
 - Test with a different USB device
 - Confirm the app is running
 - Rebuild the executable if the current binary is outdated
-
-## License
-
-Add your preferred license information here if you plan to share the project publicly.
